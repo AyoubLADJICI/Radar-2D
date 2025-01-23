@@ -33,14 +33,6 @@ Le projet est divisé en plusieurs parties :
 - **[`CR_Pj_LADJICI_Ayoub.pdf`](./CR_Pj_LADJICI_Ayoub.pdf)** :
   - Rapport détaillant la conception, les simulations et les tests réalisés.
 
-### 📜 Code Source
-- **[`src`](./src/)** :
-  - Contient l’ensemble des fichiers VHDL, les testbenchs, ainsi que le fichier top-level pour la carte FPGA.
-  
-### 📊 Ressources Complémentaires
-- **[`fichiers_test`](./fichiers_test/)** :
-  - Commandes pour tester le projet avec des outils tels que TeraTerm ou Minicom.
-
 ## 🚀 Installation et Utilisation
 
 ### 📥 Prérequis
