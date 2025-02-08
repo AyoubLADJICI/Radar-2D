@@ -44,6 +44,6 @@ Le projet est divisé en plusieurs parties :
 ### 📂 Configuration du Projet
 1. **Clonage du dépôt :**
    ```bash
-   git clone https://github.com/AyoubLADJICI/Radar_2D_Fpga.git
-   cd Radar_2D_Fpga
+   git clone https://github.com/AyoubLADJICI/Radar_2D.git
+   cd Radar_2D/
 
